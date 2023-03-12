@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* overflow: hidden; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+.score {
+  position: absolute;
+  z-index: 10;
+  color: white;
+  left: 10px;
+  top: 10px;
+  margin: 0;
+  font-family: sans-serif;
+}
+.canvasContainer {
+  position: relative;
+}
