@@ -19,7 +19,7 @@ Currently the following features have been implemented.
 - Basic score system
 
 ### Todo
-As I work on the project and learn more, there are several features I wish to implement. The folloeing are some of the features I plan to implement in no particular order.
+As I work on the project and learn more, there are several features I wish to implement. The following are some of the features I plan to implement in no particular order.
 
 - Enemy variety
 - Dynamic obstacles - such as asteroids
