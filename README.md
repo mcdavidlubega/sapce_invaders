@@ -1,6 +1,6 @@
 ## Space Aliens
 
-This is an implementation of space invaders using HTML CSS and Javascript. 
+This is an implementation of space invaders using HTML CSS and Javascript. You can play the current build of the game [here](https://mcdavidlubega.github.io/sapce_invaders/)
 
 This implementation makes extensive use of Javascript classes to implement various features. This project is a pasison project that is I work on in my free time. 
 
